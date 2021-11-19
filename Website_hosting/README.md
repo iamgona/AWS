@@ -1,4 +1,4 @@
-In this project i make website using various AWS resources such as
+In this project I make a website using various AWS services storing all its dependencis in s3 bucket 
 
 - VPC with Public and Private Subnets,
 - Security groups,
