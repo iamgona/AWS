@@ -1,4 +1,5 @@
-In this project I make a website using various AWS services storing all its dependencis in s3 bucket 
+In this project I host a website from my S3 bucket 
+In this architecture i use various aws servises such as:
 
 - VPC with Public and Private Subnets,
 - Security groups,
