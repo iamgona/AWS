@@ -1,6 +1,4 @@
-In this project I host a website from my S3 bucket 
-In this architecture i use various aws servises such as:
-
+In this project I host a website from my S3 bucket using various aws servises such as:
 - VPC with Public and Private Subnets,
 - Security groups,
 - EC2
